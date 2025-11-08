@@ -1,0 +1,29 @@
+- ModelForm 
+- Generic Views 
+- CSRF Token vs CORS 
+- select_related and prefetch_related 
+- unique_together 
+- Serializers 
+- Mixins 
+- @staticmethod vs @classmethod in Django 
+- Handling circular imports in Django 
+- Django Channels 
+- POST URL and getting values from requests (validation) 
+- Gunicorn 
+- Rate limiting 
+- Proxy vs Reverse Proxy 
+- HTTP 401 vs 400 
+- Webhook & Webserver 
+- IPv4 vs IPv6 
+- Pros and Cons of Django
+- Request-Response Cycle
+- Advantages of ORM Over Raw SQL
+- QuerySets()
+- unique_together
+- related_name
+- Celery
+- Contents of Request
+- PUT vs PATCH
+- Rate Limiting
+- Content Negotiation
+- HTTP 400

@@ -1,0 +1,9 @@
+- immutability of state
+- storing and changing values in refs
+- print message when component gets unmounted
+- arrow function syntax
+- synthetic events
+- why shouldn’t hooks be used in conditional statements
+- MemoryRouter
+- debouncing
+- StrictMode

@@ -1,0 +1,76 @@
+Reviewer Name : Hashif 
+
+- Do pratical task using useReducer and all other hooks that you have learned
+- useSelector and useDispatch
+- createAsyncThunk function
+- combineReducers 
+- CSR vs SSR
+- Destructuring
+- Dynamic Rendering
+- combined reducers
+- useref ,usememo,reducer
+- callback
+- use callback hook
+- Redux middle wears
+- (workout) - using useeffect api data fetching.
+- useRef
+- why ssr fatser for initial loading
+- useEffect exact conept
+- React.memo() concept
+- use Reducer
+- Action vs Action creator
+- redux toolkit
+- Pure Component
+- How do you update state in a class component?
+- What are action creators?
+- How can we handle async actions in Redux?
+- What is the use of the Immer library?
+- Create a component to fetch data from an API 
+- Callback
+- Promise
+- Async await
+- Call, apply and bind methods
+- Throw and throws
+- Event capturing and bubbling
+- Ajax
+- jQuery
+- Fetch
+- Higher order functions
+- IIFE
+- Higher order components
+- useRef, useReducer
+- Babel, webpack
+- Optional chaining
+- useMamo, useCallback , React.mamo need practical exposure
+- send data from parent to child using context
+- difference between controlled and uncontrolled component
+- custom hooks
+- transpiler
+- useNavigate
+- synthetic events
+- render props
+- shadow DOM
+- Stateful & stateless component
+- Context
+- forwardRef
+- built in components in react
+- limitations of react (SEO, initial loading)
+- React.lazy, Suspense
+- React.memo, useMemo
+- explore hooks, components, API from react.dev
+- need more clarity in authentication and Authorization
+- mongodb concepts are not clear
+- need to more focus on redux concepts
+- combineReducers
+- providers
+- redux middlewares
+- optimizing performance in redux
+- Life cycle method
+- useMemo and useCallback
+- useReducer
+- Controlled component
+- HOC
+- Redux middleware
+- Promise (clarity)
+- react - Needs to improve in practical
+- Click one button and show alert

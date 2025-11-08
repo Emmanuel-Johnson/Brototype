@@ -1,0 +1,57 @@
+- insertion sort 
+- merge sort 
+- collision and its handling 
+- Heapify exact concept 
+- how time and space complexity calculated 
+- asynotations-worst case - which notation? 
+- diff types of linked list and their differences 
+- What is an AVL tree? 
+- binary search concept 
+- best case time complexity of quicksort. 
+- What is the best time complexity of insertion sort and quick sort? 
+- What are the common time complexities? 
+- What is the time complexity to insert an element at the end of a linked list? 
+- What is the time complexity of merge sort? 
+- time complexity of adding element into linked list 
+- Quick Sort time complexity 
+- if we insert in stack - in which position the element is inserted 
+- if we delete in stack - position of element deleted. 
+- queue 
+- What is a circular queue? 
+- What is stack overflow? 
+- what is base case in recursion? 
+- degree of node in graph 
+- Which graph traversal method uses a stack for implementation? 
+- What is the difference between directed and undirected graphs? 
+- Give real-life examples of hash tables. 
+- hash function exact concept 
+- what is load factor, threshold value. 
+- bt vs bst
+- tree traversal - preorder - explanation
+- Do more practical using heap
+- what is heapify explain with complexity
+- explian binary search and merge sort and quick sort with complexity
+- Create a binary tree and calculate the height of the tree
+- graph (question given 6 nodes and inter connected - dfs and bfs)
+- practise recursion , understand it properly
+- practise with ds week 1 topic problems  from blind 75
+- Jagged array
+- min stack
+- sort a stack using temporary stack
+- rehashing
+- collisions, how it's handled
+- merge sort implementation
+- underflow in stack
+- applications of hash table
+- types of hash functions
+- time comp of bfs dfs
+- trie
+- heapsort
+- study properly overall topics
+- priority queue
+- Heap
+- logN
+- Insertion sort
+- Binary Search Tree 
+- All Type of Sorts 
+- DSA - Needs to improve in practical 

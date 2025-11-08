@@ -1,0 +1,10 @@
+- Default middleware 
+- Session based auth 
+- CSRF 
+- Secret key 
+- Proxy model use case 
+- ORM workouts 
+- ORM
+- Session based auth
+- JWT verification
+- HTTP status code purposes

@@ -1,0 +1,16 @@
+- State vs variables
+- React workout
+- Hooks - proper definition
+- Hooks vs functions
+- Hooks inside conditionals
+- Core principles of redux
+- useMemo
+- Routing in react
+- HOC
+- Pure functions
+- Controlled component
+- Cons of SPA
+- State vs variables
+- Life cycle methods
+- Routers and react-router-dom
+- Core principles of redux

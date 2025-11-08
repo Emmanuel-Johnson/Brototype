@@ -1,0 +1,14 @@
+- Quicksort time complexity 
+- Time complexity – needs improvement 
+- Why mergesort is best for linked list 
+- Collision handling methods 
+- Rehashing 
+- Minimum spanning tree 
+- AVL tree 
+- Linear probing implementation 
+- Doubly linked list insertion operation 
+- insert a node in witha a value in doubly linked list on specified index.(write only the logic).
+- hash table with leniar probing for handlign collesion.
+- doubly ll insertion logic - needs improvement
+- time complexity of quicksort
+- minimum spanning tree

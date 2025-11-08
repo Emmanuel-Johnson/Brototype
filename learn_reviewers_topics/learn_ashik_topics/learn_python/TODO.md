@@ -1,0 +1,14 @@
+- Definition of OOPs 
+- Abstraction in python 
+- Instance and private var 
+- Super init 
+- MRO clarity 
+- Static and class methods 
+- Process, threads 
+- Why GIL 
+- Logical problem solving needs improvement 
+- Dict workout
+- String workout
+- OOPs
+- GIL
+- Multithreading

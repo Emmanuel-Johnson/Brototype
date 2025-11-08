@@ -1,0 +1,58 @@
+- list vs tuple 
+- lambda function exact concept 
+- list comprehension concept 
+- decorators concept 
+- Constructor vs destructor 
+- use of else in exception 
+- oops 
+- how many arguments can be passed to lambda function 
+- GIL 
+- match 
+- deep copy and shallow copy 
+- deepcopy() and copy() exact concept 
+- Create a decorator with args 
+- create a generator to count upto n 
+- Set chars 
+- difference between del and remove() 
+- difference between staticmethod and classmethod 
+- mandatory module in package 
+- generator vs iterator 
+- What is the use of the with statement? 
+- What are context managers? 
+- What is the use of @property? 
+- Create a decorator that can access arguments 
+- Generator for infinite Fibonacci series 
+- Create a Floyd’s triangle pattern 
+- Interpreter vs compiler 
+- Magic methods 
+- MRO 
+- Python memory management 
+- Generator 
+- Copy by value and copy by reference 
+- Decorators 
+- Pass statement 
+- List comprehension exact concept 
+- Lambda function 
+- truthy falsy 
+- removing dict key 
+- remove dict keys that begin with a vowel 
+- Frozenset 
+- closure 
+- Pip 
+- MRO 
+- Is vs == 
+- Super 
+- __ vs private 
+- With 
+- Constructor and destructor concept 
+- Weakref 
+- subclassing 
+- don’t overwrite type names 
+- _name_ 
+- Memory allocation in python 
+- GIL 
+- Instance variables 
+- Advantages of OOP 
+- Polymorphism in python 
+- Method overloading 
+- Abstract class in python 

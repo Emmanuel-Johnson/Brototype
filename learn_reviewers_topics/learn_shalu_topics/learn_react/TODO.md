@@ -1,0 +1,11 @@
+- Synthetic events
+- How to pass data from child to parent
+- Higher-order component (HOC)
+- What is the need of package-lock.json file
+- Core principles of Redux
+- Why is reducer a pure function
+- useRef vs forwardRef
+- controlled vs uncontrolled component
+- need of package-lock.json file - needs improvement
+- redux saga vs redux thunk
+- decorator logic

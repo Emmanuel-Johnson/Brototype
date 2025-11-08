@@ -1,0 +1,5 @@
+- Find name of students having highest/second highest mark
+- 2NF
+- 3NF
+- Normalisation 
+- Sub queries

@@ -1,0 +1,51 @@
+- Sql view 
+- DDL DML DCL 
+- Where vs Having Clause 
+- What is SQL? 
+- composite key 
+- UNION 
+- join 
+- ACID 
+- ACID properties 
+- CTE 
+- 3-Schema Architecture 
+- What is a stored procedure? 
+- What is a trigger? 
+- index 
+- What is SQL injection? 
+- Normalization 
+- What is denormalization? 
+- 1nf 2nf 3nf 
+- Practical
+- workout(online compiler given- with 3 tables(orders, customers,shipping)
+- Find the customer names whose total spend is more than 12,000 
+- Show each customer’s total amount spent and total number of orders in a single row 
+- try maximum workouts
+- constraints 
+- trigger 
+- cascading 
+- Cross join 
+- Having 
+- stored procedure 
+- view
+- subquery
+- creation of tables with primary key and foreign key
+- clustered index
+- non clustered index
+- transaction workouts
+- Durability in sql
+- Exists operator
+- Any and All operators
+- Cursor
+- Revise subquery
+- schema
+- composite key
+- View
+- SQL injection
+- EXTRACT: projects started in 2023
+- JOIN syntax
+- 3 schema architecture
+- 2NF, 3NF
+- BCNF
+- Natural join
+- Isolation

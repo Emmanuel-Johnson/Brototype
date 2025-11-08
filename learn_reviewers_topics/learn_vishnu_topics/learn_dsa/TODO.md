@@ -1,0 +1,9 @@
+- load factor 
+- btree 
+- AVL trees 
+- anagrams 
+- linear probing vs quadratic probing 
+- character encoding 
+- queue using SLL 
+- BST 
+- check if number contains a digit without using strings 
