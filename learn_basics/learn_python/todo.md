@@ -51,17 +51,17 @@
 
 ### 5. Data Structures & Operations
 
-* Data structure inbuilt functions in python (list, dict, set, string, tuples)
-* list vs tuple
-* List comprehension and dict comprehension
-* deep copy and shallow copy
-* deepcopy() and copy() exact concept
-* Copy by value and copy by reference
-* difference between del and remove()
-* removing dict key
-* remove dict keys that begin with a vowel
-* Set chars 
-* Frozenset
+* Data structure inbuilt functions in python (list, dict, set, string, tuples) ✅
+* list vs tuple ✅
+* Set chars ✅
+* Frozenset ✅
+* difference between del and remove() ✅
+* removing dict key ✅
+* List comprehension and dict comprehension ✅
+* Copy by value and copy by reference ✅
+* deep copy and shallow copy ✅
+* deepcopy() and copy() exact concept ✅
+* remove dict keys that begin with a vowel ✅
 
 ### 6. Python Packages & Modules
 
