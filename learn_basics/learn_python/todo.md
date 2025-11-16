@@ -75,7 +75,7 @@
 
 ### 8. Patterns 
 
-* Create a Floyd’s triangle pattern 
+* Create a Floyd’s triangle pattern ✅
 
 ### 9. Python Internals & System Concepts
 
