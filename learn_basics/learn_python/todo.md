@@ -13,43 +13,7 @@
 * Break, Continue, Pass ✅
 * Operators (Unary, binary, ternary, etc…) ✅
 
-### 2. Object-Oriented Programming (OOP)
-
-* Class
-* Objects
-* Class properties
-* Constructor and Destructor
-* OOP
-* subclassing
-* Instance variables
-* Super
-* __ vs private
-* _name_ 
-* don’t overwrite type names
-* Magic methods
-* MRO
-* What is the use of @property?
-* difference between staticmethod and classmethod 
-
-### 3. Advanced Python Concepts
-
-* closure
-* Decorator
-* Create a decorator with args
-* Create a decorator that can access arguments
-* Generator, Iterator
-* create a generator to count upto n
-* Generator for infinite Fibonacci series
-* with
-* What is the use of the with statement?
-* What are context managers?
-
-### 4. Error Handling & Exceptions
-
-* Error Handling
-* use of else in exception 
-
-### 5. Data Structures & Operations
+### 2. Data Structures & Operations
 
 * Data structure inbuilt functions in python (list, dict, set, string, tuples) ✅
 * list vs tuple ✅
@@ -63,19 +27,55 @@
 * deepcopy() and copy() exact concept ✅
 * remove dict keys that begin with a vowel ✅
 
-### 6. Python Packages & Modules
+### 3. Advanced Python Concepts
+
+* closure ✅
+* Decorator ✅
+* Create a decorator with args ✅
+* Create a decorator that can access arguments ✅
+* Generator ✅
+* create a generator to count upto n ✅
+* Generator for infinite Fibonacci series ✅
+* Iterator ✅
+* What are context managers? ✅
+* What is the use of the with statement? ✅
+
+### 4. Patterns 
+
+* Create a Floyd’s triangle pattern ✅
+
+### 5. Object-Oriented Programming (OOP)
+
+* Class
+* Objects
+* Class properties
+* Constructor and Destructor
+* OOP
+* subclassing
+* Instance variables
+* Super
+* __ vs private
+* don’t overwrite type names
+* Magic methods
+* MRO
+* What is the use of @property?
+* difference between staticmethod and classmethod
+
+### 6. Error Handling & Exceptions
+
+* Error Handling
+* use of else in exception
+
+### 7. Python Packages & Modules
 
 * Modules and Packages
 * mandatory module in package 
+* _name_ 
 * Pip 
 
-### 7. Pattern Matching
+### 8. Pattern Matching
 
-* match 
-
-### 8. Patterns 
-
-* Create a Floyd’s triangle pattern ✅
+* match
 
 ### 9. Python Internals & System Concepts
 
