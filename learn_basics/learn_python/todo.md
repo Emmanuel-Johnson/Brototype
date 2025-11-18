@@ -46,20 +46,19 @@
 
 ### 5. Object-Oriented Programming (OOP)
 
-* Class
-* Objects
-* Class properties
-* Constructor and Destructor
+* Class ✅
+* Objects ✅
+* Instance variables ✅
+* Class properties ✅
+* What is the use of @property? ✅
+* Constructor and Destructor ✅
+* Super ✅
+* protected and private ✅
+* difference between staticmethod and classmethod ✅
+* Magic methods
 * OOP
 * subclassing
-* Instance variables
-* Super
-* __ vs private
-* don’t overwrite type names
-* Magic methods
 * MRO
-* What is the use of @property?
-* difference between staticmethod and classmethod
 
 ### 6. Error Handling & Exceptions
 
