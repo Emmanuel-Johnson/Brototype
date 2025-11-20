@@ -55,22 +55,22 @@
 * Super ✅
 * protected and private ✅
 * difference between staticmethod and classmethod ✅
-* Magic methods
-* OOP
-* subclassing
-* MRO
+* Magic methods ✅
+* OOP ✅
+* subclassing ✅
+* MRO ✅
 
 ### 6. Error Handling & Exceptions
 
-* Error Handling
-* use of else in exception
+* Error Handling ✅
+* use of else in exception ✅
 
 ### 7. Python Packages & Modules
 
-* Modules and Packages
-* mandatory module in package 
-* _name_ 
-* Pip 
+* Modules and Packages ✅
+* mandatory module in package ✅
+* _name_ ✅
+* Pip ✅
 
 ### 8. Pattern Matching
 
