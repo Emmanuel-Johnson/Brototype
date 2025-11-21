@@ -74,12 +74,12 @@
 
 ### 8. Pattern Matching
 
-* match
+* match ✅
 
 ### 9. Python Internals & System Concepts
 
-* Interpreter vs compiler
-* Python memory management
-* Memory allocation in python
-* Weakref
-* GIL
+* Interpreter and compiler ✅
+* Python memory management ✅
+* Memory allocation in python ✅
+* Weakref ✅
+* GIL ✅
