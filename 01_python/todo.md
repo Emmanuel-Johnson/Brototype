@@ -1,20 +1,20 @@
 ## 1️⃣ Python Basics
 
 ### Language Fundamentals
-- Features of Python
-- Variables
-- Conditional statements
-- Loops
-- For–Else pattern
-- Arrays
-- Functions
-- Types of arguments
-  - Positional
-  - Keyword
-  - Default
-  - Variable-length (*args, **kwargs)
-- Pure vs Impure functions
-- nonlocal keyword
+- Features of Python ✅
+- Variables ✅
+- Conditional statements ✅
+- Loops ✅
+- For–Else pattern ✅
+- Arrays ✅
+- Functions ✅
+- Types of arguments ✅
+  - Positional ✅
+  - Keyword ✅
+  - Default ✅
+  - Variable-length (*args, **kwargs) ✅
+- Pure vs Impure functions ✅
+- nonlocal keyword ✅
 - Lambda functions
   - Lambda without arguments
 - Truthy & falsy values
