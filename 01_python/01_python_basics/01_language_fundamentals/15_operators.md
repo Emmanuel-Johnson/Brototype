@@ -1,0 +1,9 @@
+Operators in Python are symbols or keywords that tell Python to perform actions on values or variables. They are essential because programming is all about calculating, comparing, deciding, and transforming data. Python reads the operator, applies it to the given operands, and produces a result, such as a number, boolean value, or modified data.
+
+Unary operators work on only one operand and are used when you want to modify or inspect a single value. They are useful for changing a value’s sign, reversing a condition, or manipulating bits. Unary operators are written before the value, like -x, not x, or ~x, and Python directly applies the operation to that one operand.
+
+Binary operators work on two operands and are the most commonly used operators in Python. They are used to perform arithmetic calculations, comparisons, logical checks, and assignments between two values. The operator is placed between the operands, such as a + b, a > b, or a and b, and Python evaluates both values together to produce the result.
+
+The ternary operator in Python is a compact way to write conditional logic in a single line. It is used when you want to choose between two values based on a condition, without writing a full if–else block. Python evaluates the condition first and then returns one value if the condition is true or another value if it is false, using the format value_if_true if condition else value_if_false.
+
+Bitwise operators work at the binary level, meaning they operate directly on the 0s and 1s that represent numbers internally. They are mainly used in low-level programming, performance optimization, and system-related tasks. Python converts numbers into binary, applies operators like AND (&), OR (|), XOR (^), NOT (~), or shifts (<<, >>) bit by bit, and then converts the result back into a decimal number.
