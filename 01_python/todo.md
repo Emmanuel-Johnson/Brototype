@@ -15,20 +15,20 @@
   - Variable-length (*args, **kwargs) ✅
 - Pure vs Impure functions ✅
 - nonlocal keyword ✅
-- Lambda functions
-  - Lambda without arguments
-- Truthy & falsy values
-- `is` vs `==`
-- break, continue, pass
-- Operators
-  - Unary
-  - Binary
-  - Ternary
-  - Bitwise operators
-- `1 & 2` vs `1 and 2`
-- Generate random number between 0 and 100
-- Environment variables
-- Reading environment variables
+- Lambda functions ✅
+  - Lambda without arguments ✅
+- Truthy & falsy values ✅
+- `is` vs `==` ✅
+- break, continue, pass ✅
+- Operators ✅
+  - Unary ✅
+  - Binary ✅
+  - Ternary ✅
+  - Bitwise operators ✅
+- `1 & 2` vs `1 and 2` ✅
+- Generate random number between 0 and 100 ✅
+- Environment variables ✅
+- Reading environment variables ✅
 
 ---
 

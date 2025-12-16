@@ -1,0 +1,5 @@
+break is used to immediately stop a loop when a specific condition is met. What it does is terminate the loop completely, even if there are remaining iterations. Why it exists is to avoid unnecessary looping once your goal is achieved, such as finding a required value. How it works is simple: when Python encounters break, control exits the loop and continues with the code after the loop.
+
+continue is used to skip the current iteration of a loop and move to the next one. What it does is ignore the remaining code in the current cycle. Why it is useful is when certain values should not be processed but the loop itself must keep running. How it works is that Python immediately jumps back to the loop condition when continue is executed.
+
+pass is a null statement that does nothing. What it does is act as a placeholder where a statement is syntactically required. Why it is needed is to allow you to define code structures like loops, functions, or conditionals without implementing logic yet. How it works is that Python executes pass and simply moves on without any effect.
