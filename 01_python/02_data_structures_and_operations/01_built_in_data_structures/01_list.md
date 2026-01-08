@@ -1,0 +1,5 @@
+In Python, a list is a built-in, ordered, mutable collection used to store multiple items in a single variable. You create a list using square brackets — for example: nums = [1, 2, 3]. Lists can hold mixed data types, so you can store integers, strings, booleans, even other lists inside it. They maintain insertion order, meaning items stay in the same order you add them.
+
+Lists are mutable, which means you can change them after creation — add, remove, or update elements. Common operations include indexing nums[0], slicing nums[1:3], appending new elements using .append(), adding multiple items using .extend(), inserting at a position using .insert(), and removing using .remove() or .pop(). Under the hood, lists are implemented as dynamic arrays, so they grow automatically when needed.
+
+They’re also iterable, meaning you can loop through them using a for loop, and they support list comprehension for concise transformations — like [x*2 for x in nums]. Overall, lists are one of the most flexible and commonly used data structures in Python, ideal for storing and manipulating ordered collections of data.

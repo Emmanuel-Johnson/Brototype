@@ -35,36 +35,36 @@
 ## 2️⃣ Data Structures & Operations
 
 ### Built-in Data Structures
-- List
-- Tuple
-- Set
-- Dictionary
-- String
-- NoneType
+- List ✅
+- Tuple ✅
+- Set ✅
+- Dictionary ✅
+- String ✅
+- NoneType ✅
 
 ### Concepts & Comparisons
-- Mutable vs Immutable objects
-- List vs Tuple
-- Is float mutable?
-- Set of characters
-- Frozenset
-- What can be unpacked?
-- Unpacking
+- Mutable vs Immutable objects ✅
+- List vs Tuple ✅
+- Is float mutable? ✅
+- Set of characters ✅
+- Frozenset ✅
+- Unpacking ✅
+- What can be unpacked? ✅
 
 ### Operations & Techniques
-- Built-in functions for all data structures
-- Difference between `del` and `remove()`
-- Removing a dictionary key
-- Remove dictionary keys that begin with a vowel
-- Remove key corresponding to the highest value
-- List comprehension
-- Dictionary comprehension
-- Copy by value vs copy by reference
-- Shallow copy vs Deep copy
-- `copy()` vs `deepcopy()` (exact concept)
-- Create a list with even negative numbers using comprehension
-- Flatten a list
-- Merge two sorted lists
+- Built-in functions for all data structures ✅
+- Difference between `del` and `remove()` ✅
+- Removing a dictionary key ✅
+- Remove dictionary keys that begin with a vowel ✅
+- Remove key corresponding to the highest value ✅
+- List comprehension ✅
+- Dictionary comprehension ✅
+- Copy by value vs copy by reference ✅
+- Shallow copy vs Deep copy ✅
+- `copy()` vs `deepcopy()` ✅
+- Create a list with even negative numbers using comprehension ✅
+- Flatten a list ✅
+- Merge two sorted lists ✅
 
 ---
 
