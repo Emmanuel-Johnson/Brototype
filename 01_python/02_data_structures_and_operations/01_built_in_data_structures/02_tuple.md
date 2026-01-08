@@ -1,0 +1,7 @@
+A tuple in Python is an ordered, immutable collection used to group related data together. It’s very similar to a list in that it maintains order, supports indexing and slicing, and can hold mixed data types — like integers, strings, or even other tuples. But the key difference is immutability: once a tuple is created, you cannot modify it. That means no adding, deleting, or updating elements after assignment.
+
+You create a tuple using parentheses, for example: point = (10, 20). A cool detail is that parentheses are optional — Python mainly uses the comma to define a tuple, so something like x = 1, 2, 3 is also a tuple. If you want a single-element tuple, you need a trailing comma, like (5,).
+
+Because tuples are immutable, they’re often used for fixed collections of values — like coordinates, database records, function return values, or configuration constants. They’re also hashable if they contain only immutable elements, which means they can be used as dictionary keys or added to sets — something lists cannot do. Performance-wise, tuples are faster and more memory-efficient than lists, which makes them a great choice when you know the data will not change.
+
+Tuples are also commonly used in Python for unpacking — like x, y = point, or returning multiple values from a function. Overall, a tuple is ideal when you need an ordered collection that is guaranteed to remain stable and should not be modified.
