@@ -71,34 +71,34 @@
 ## 3️⃣ Advanced Python Concepts
 
 ### Type System
-- Type annotations
+- Type annotations ✅
 
 ### Closures & Decorators
-- Closure
-- Use of closures
-- Decorators
-- Decorator with arguments
-- Decorator accessing function arguments
-- Decorator to handle ZeroDivisionError
-- Decorator to convert string return value to lowercase
-- Decorator to prepend a string
+- Closure ✅
+- Use of closures ✅
+- Decorators ✅
+- Decorator with arguments ✅
+- Decorator accessing function arguments ✅
+- Decorator to handle ZeroDivisionError ✅
+- Decorator to convert string return value to lowercase ✅
+- Decorator to prepend a string ✅
 
 ### Iterators & Generators
-- Generator
-- Generator to count up to `n`
-- Infinite Fibonacci generator
-- Generator implementation
-- Iterator
-- Custom iterator implementation
+- Generator ✅
+- Generator to count up to `n` ✅
+- Infinite Fibonacci generator ✅
+- Generator implementation ✅
+- Iterator ✅
+- Custom iterator implementation ✅
 
 ### Context Management
-- Context managers
-- `with` statement and its use
+- Context managers ✅
+- `with` statement and its use ✅
 
 ### Standards & Utilities
-- PEP (Python Enhancement Proposals)
-- Time methods and operations
-- Calculate hours left until tomorrow
+- PEP (Python Enhancement Proposals) ✅
+- Time methods and operations ✅
+- Calculate hours left until tomorrow ✅
 
 ---
 
