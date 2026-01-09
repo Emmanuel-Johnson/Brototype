@@ -104,7 +104,7 @@
 
 ## 4️⃣ Patterns
 
-- Floyd’s Triangle pattern
+- Floyd’s Triangle pattern ✅
 
 ---
 
