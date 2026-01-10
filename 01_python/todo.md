@@ -111,31 +111,31 @@
 ## 5️⃣ Object-Oriented Programming (OOP)
 
 ### Core OOP Concepts
-- Class
-- Object
-- Instance variables
-- Class variables / properties
-- Constructor (`__init__`)
-- Destructor (`__del__`)
-- `__new__` method
-- `super()`
-- `super().__init__()`
+- Class ✅
+- Object ✅
+- Instance variables ✅
+- Class variables ✅
+- Constructor (`__init__`) ✅
+- Destructor (`__del__`) ✅
+- `__new__` method ✅
+- `super()` ✅
+- `super().__init__()` ✅
 
 ### Encapsulation & Design
-- Public, Protected, Private members
-- `@property` decorator
-- Difference between `@staticmethod` and `@classmethod`
-- Magic (dunder) methods
-- OOP design principles
-  - Encapsulation
-  - Inheritance
-  - Polymorphism
-  - Abstraction
-- Subclassing
-- Method Resolution Order (MRO)
-- Data Classes
-- Duck Typing
-- Metaclass
+- Public, Protected, Private members ✅
+- `@property` decorator ✅
+- Difference between `@staticmethod` and `@classmethod` ✅
+- Magic (dunder) methods ✅
+- OOP design principles ✅
+  - Encapsulation ✅
+  - Inheritance ✅
+  - Polymorphism ✅
+  - Abstraction ✅
+- Subclassing ✅
+- Duck Typing ✅
+- Method Resolution Order (MRO) ✅
+- Data Classes ✅
+- Metaclass ✅
 
 ---
 
