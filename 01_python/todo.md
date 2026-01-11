@@ -141,13 +141,13 @@
 
 ## 6️⃣ Error Handling & Exceptions
 
-- Error handling basics
-- try / except / else / finally
-- Throwing errors (`raise`)
-- Use of `else` in exception handling
-- Stack trace
-- Tools for debugging Python
-- Variadic function that raises an error if a keyword argument named `err` is present
+- Error handling basics ✅
+- try / except / else / finally ✅
+- Throwing errors (`raise`) ✅
+- Use of `else` in exception handling ✅
+- Stack trace ✅
+- Tools for debugging Python ✅
+- Variadic function that raises an error if a keyword argument named `err` is present ✅
 
 ---
 
