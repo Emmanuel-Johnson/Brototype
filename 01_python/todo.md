@@ -164,8 +164,8 @@
 
 ## 8️⃣ Pattern Matching (Python 3.10+)
 
-- match-case statement
-- Pattern matching use cases
+- match-case statement ✅
+- Pattern matching use cases ✅
 
 ---
 
