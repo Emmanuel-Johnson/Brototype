@@ -153,12 +153,12 @@
 
 ## 7️⃣ Python Packages & Modules
 
-- Modules
-- Packages
-- Mandatory file in a package (`__init__.py`)
-- `__name__`
-- pip
-- `__pycache__`
+- Modules ✅
+- Packages ✅
+- Mandatory file in a package (`__init__.py`) ✅
+- `__name__` ✅
+- pip ✅
+- `__pycache__` ✅
 
 ---
 
