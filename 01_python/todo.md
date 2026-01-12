@@ -172,28 +172,28 @@
 ## 9️⃣ Python Internals & System Concepts
 
 ### Execution Model
-- Interpreter vs Compiler
-- CPython
-- Python Virtual Machine (PVM)
+- Interpreter vs Compiler ✅
+- CPython ✅
+- Python Virtual Machine (PVM) ✅
 
 ### Memory & Performance
-- Python memory management
-- Memory allocation
-- Garbage collection mechanism
-- Reference counting
-- weakref
-- Call by sharing
+- Python memory management ✅
+- Memory allocation ✅
+- Garbage collection mechanism ✅
+- Reference counting ✅
+- weakref ✅
+- Call by sharing ✅
 
 ### Concurrency
-- Process vs Thread
-- Multithreading
-- Global Interpreter Lock (GIL)
-- Why GIL exists
-- GIL & multithreading limitations
+- Process vs Thread ✅
+- Multithreading ✅
+- Global Interpreter Lock (GIL) ✅
+- Why GIL exists ✅
+- GIL & multithreading limitations ✅
 
 ### Serialization
-- Pickling
-- Use cases of pickling
+- Pickling ✅
+- Use cases of pickling ✅
 
 ---
 
