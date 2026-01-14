@@ -44,11 +44,10 @@
 
 ## 3️⃣ MVT Architecture
 
-- MVT (Model–View–Template)
-- Django View Engine
-- Request–Response Cycle
-- Role of Templates
-- Context & context processors
+- MVT (Model–View–Template) ✅
+- Request–Response Cycle ✅
+- Role of Templates ✅
+- Context & context processors ✅
 
 ---
 
