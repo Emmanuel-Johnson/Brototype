@@ -1,27 +1,26 @@
 ## 1️⃣ Web & HTTP Fundamentals
 
 ### HTTP Basics
-- What is HTTP & why it is stateless
-- Structure of HTTP request & response
-- HTTP headers (get/set)
-- User-Agent
-- HTTP methods  
-  - GET, POST, PUT, PATCH, DELETE, OPTIONS
-- PUT vs PATCH
-- Query params vs Path params
-- HTTP status codes  
-  - 200, 201, 400, 401, 403, 500
-- HTTP OPTIONS & Preflight request
-- Content Negotiation
+- What is HTTP & why it is stateless ✅
+- Structure of HTTP request & response ✅
+- HTTP headers (get/set) ✅
+- User-Agent ✅
+- HTTP methods ✅
+  - GET, POST, PUT, PATCH, DELETE, OPTIONS, HEAD ✅
+- PUT vs PATCH ✅
+- Query params vs Path params ✅
+- HTTP status codes ✅
+  - 200, 201, 400, 401, 403, 500 ✅
+- HTTP OPTIONS & Preflight request ✅
+- Content Negotiation ✅
 
 ### Web Infrastructure
-- Web server
-- Webhook vs Webserver
-- DNS
-- HTTP vs HTTPS (ports)
-- IPv4 vs IPv6
-- Proxy vs Reverse Proxy
-- Why HTTP is stateless
+- Web server ✅
+- Webhook ✅
+- DNS ✅
+- HTTP vs HTTPS (ports) ✅
+- IPv4 vs IPv6 ✅
+- Proxy vs Reverse Proxy ✅
 
 ---
 
