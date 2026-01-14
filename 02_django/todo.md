@@ -26,19 +26,19 @@
 
 ## 2️⃣ Django Fundamentals
 
-- What is Django
-- Advantages of Django
-- Pros and Cons of Django
-- Django vs other frameworks
-- Project creation command
-- App creation command
-- Django project structure
-- Django app file structure  
-  - models.py  
-  - views.py  
-  - urls.py  
-  - admin.py  
-  - apps.py  
+- What is Django ✅
+- Advantages of Django ✅
+- Pros and Cons of Django ✅
+- Django vs other frameworks ✅
+- Project creation command ✅
+- App creation command ✅
+- Django project structure ✅
+- Django app file structure ✅
+  - models.py ✅
+  - views.py ✅
+  - urls.py ✅
+  - admin.py ✅
+  - apps.py ✅
 
 ---
 
