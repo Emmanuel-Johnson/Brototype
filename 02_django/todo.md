@@ -53,14 +53,14 @@
 
 ## 4️⃣ Django Settings & Configuration
 
-- settings.py overview
-- SECRET_KEY  
-  - Purpose  
-  - Security implications
-- INSTALLED_APPS
-- Middleware settings
-- Database configuration
-- Static & Media settings
+- settings.py overview ✅
+- SECRET_KEY ✅
+  - Purpose ✅
+  - Security implications ✅
+- INSTALLED_APPS ✅
+- Middleware settings ✅
+- Database configuration ✅
+- Static & Media settings ✅
 
 ---
 
