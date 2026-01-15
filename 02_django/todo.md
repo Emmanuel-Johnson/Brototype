@@ -66,14 +66,14 @@
 
 ## 5️⃣ URL Routing
 
-- URL routing concept
-- URL patterns
-- Path converters
-- include()
-- reverse() vs reverse_lazy()
-- POST URL handling
-- Reading query params & path params
-- View function arguments
+- URL routing concept ✅
+- URL patterns ✅
+- Path converters ✅
+- include() ✅
+- reverse() vs reverse_lazy() ✅
+- POST URL handling ✅
+- Reading query params & path params ✅
+- View function arguments ✅
 
 ---
 

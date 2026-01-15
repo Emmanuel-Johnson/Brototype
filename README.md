@@ -36,3 +36,46 @@ Associate Academic Counselor - Remote
 Email: bcr.counsellor@brototype.com
 
 Mob: 8741236106
+
+---
+
+I am preparing for a 6+ LPA technical interview.
+
+Explain the topic: <TOPIC NAME>
+Technology: <Python / Django / SQL / DSA / React / etc.>
+
+Answer STRICTLY in this order. 
+Write each section as a SHORT PARAGRAPH (2–3 lines max). 
+Avoid bullet points unless clearly needed.
+
+1. WHAT
+Give a simple 1–2 line definition in plain language.
+Use: “<Topic> is … used to …”
+
+2. WHY
+Explain the problem it solves and what becomes difficult or repetitive without it.
+
+3. WHERE
+Explain where it fits in the system, request–response flow, or architecture.
+
+4. HOW
+Explain how it works at a high level in 2–3 clear steps.
+Do NOT go into deep internals unless asked.
+
+5. WHEN
+Explain when it should be used and one case where it should NOT be used.
+
+6. EXAMPLE
+Give one short real or project-based example of usage.
+
+7. PROS & CONS
+Mention 2–3 advantages and 1–2 trade-offs in sentence form.
+
+8. COMMON MISTAKES
+Mention 1–2 common mistakes or misuse cases briefly.
+
+Constraints:
+- Total spoken answer should fit within 60–90 seconds
+- Use simple, clear, professional language
+- No unnecessary theory or history
+- Output should be compact and easy to revise
