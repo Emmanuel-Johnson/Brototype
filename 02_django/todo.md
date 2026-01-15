@@ -80,18 +80,17 @@
 ## 6️⃣ Django Views
 
 ### Types of Views
-- Function-Based Views (FBV)
-- Class-Based Views (CBV)
-- Generic Views
-- Mixins
+- Function-Based Views (FBV) ✅
+- Class-Based Views (CBV) ✅
+- Generic Views ✅
+- Mixins ✅
 
 ### View Concepts
-- Checking request method
-- Returning HTTP status codes
-- Changing response status code
-- Redirects
-- reverse() & reverse_lazy()
-- HttpRequest object (contents)
+- Checking request method ✅
+- Returning HTTP status codes ✅
+- Changing response status code ✅
+- Redirects ✅
+- HttpRequest object ✅
 
 ---
 
