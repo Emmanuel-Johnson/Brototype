@@ -96,11 +96,11 @@
 
 ## 7️⃣ Forms & Validation
 
-- Forms vs ModelForms
-- ModelForm
-- Validators
-- POST data validation
-- CSRF Token (how it works)
+- forms ✅
+- Form & ModelForm ✅
+- Validators ✅
+- POST data validation ✅
+- CSRF Token ✅
 
 ---
 
