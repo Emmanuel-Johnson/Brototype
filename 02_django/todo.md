@@ -148,15 +148,15 @@
 
 ## 1️⃣1️⃣ Database & Migrations
 
-- Database connection
-- Models.py deep dive
-- What are migrations
-- Migration commands
-- How migrations work
-- Adding new column via migration
-- Primary key vs Unique key
-- Constraints
-- unique_together
+- Database connection ✅
+- Models.py deep dive ✅
+- What are migrations ✅
+- Migration commands ✅
+- How migrations work ✅
+- Adding new column via migration ✅
+- Primary key vs Unique key ✅
+- Constraints ✅
+- unique_together ✅
 
 ---
 
