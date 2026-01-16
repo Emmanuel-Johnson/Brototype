@@ -129,10 +129,10 @@
 
 ## 9️⃣ Django Middleware
 
-- What is middleware
-- Request/Response middleware flow
-- Default Django middleware
-- Custom middleware
+- What is middleware ✅
+- Request/Response middleware flow ✅
+- Default Django middleware ✅
+- Custom middleware ✅
 
 ---
 
