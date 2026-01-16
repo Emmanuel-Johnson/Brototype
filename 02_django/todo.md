@@ -138,11 +138,11 @@
 
 ## 🔟 Django Security
 
-- CSRF
-- XSS
-- CORS
-- Rate limiting
-- HTTPS importance
+- CSRF ✅
+- XSS ✅
+- CORS ✅
+- Rate limiting ✅
+- HTTPS importance ✅
 
 ---
 
