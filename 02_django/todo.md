@@ -107,24 +107,23 @@
 ## 8️⃣ Sessions, Cookies & Authentication
 
 ### Cookies & Sessions
-- Session vs Cookies
-- Cookie expiry
-- Django session
-- Django session management
-- Session-based authentication
+- Sessions vs Cookies ✅
+- Cookie expiry ✅
+- Django session ✅
+- Django session management ✅
+- Session-based authentication ✅
 
 ### Browser Storage
-- Cookies
-- localStorage
-- sessionStorage
+- Cookies ✅
+- localStorage ✅
+- sessionStorage ✅
 
 ### Authentication & Authorization
-- Authorization in Django
-- JWT basics  
-  - Parts of JWT  
-  - JWT signature  
-  - JWT verification
-- CSRF Token vs CORS
+- Authentication and Authorization in Django ✅
+- JWT basics ✅
+  - Parts of JWT ✅
+  - JWT signature ✅
+  - JWT verification ✅
 
 ---
 
@@ -134,7 +133,6 @@
 - Request/Response middleware flow
 - Default Django middleware
 - Custom middleware
-- Middleware vs signals
 
 ---
 
