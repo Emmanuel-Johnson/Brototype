@@ -163,35 +163,35 @@
 ## 1️⃣2️⃣ Django ORM
 
 ### ORM Basics
-- ORM concept
-- ORM vs Raw SQL
-- Advantages of ORM over SQL
-- QuerySets
-- Lazy evaluation
-- Managers
+- ORM concept ✅
+- ORM vs Raw SQL ✅
+- Advantages of ORM over SQL ✅
+- QuerySets ✅
+- Lazy evaluation ✅
+- Managers ✅
 
 ### Retrieval Methods
-- get()
-- filter()
-- exclude()
-- values()
-- values_list()
-- contains / icontains
+- get() ✅
+- filter() ✅
+- exclude() ✅
+- values() ✅
+- values_list() ✅
+- contains / icontains ✅
 
 ### Advanced ORM
-- Q object
-- F object
-- Aggregation vs Annotation
-- Aggregate functions
-- annotate() vs aggregate()
-- Raw queries vs cursor
-- extra() (legacy)
+- Q object ✅
+- F object ✅
+- Aggregation and Annotation ✅
+- Aggregate functions ✅
+- annotate() vs aggregate() ✅
+- raw vs cursor ✅
+- extra() (legacy) ✅
 
 ### Date Lookups
-- year
-- month
-- day
-- weekday
+- year ✅
+- month ✅
+- day ✅
+- weekday ✅
 
 ---
 
