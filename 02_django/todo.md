@@ -208,10 +208,10 @@
 
 ## 1️⃣4️⃣ ORM Optimization
 
-- select_related
-- prefetch_related
-- Lazy loading
-- When to use select_related vs prefetch_related
+- select_related ✅
+- prefetch_related ✅
+- Lazy loading ✅
+- When to use select_related vs prefetch_related ✅
 
 ---
 
