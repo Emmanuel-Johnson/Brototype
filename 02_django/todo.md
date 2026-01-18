@@ -217,9 +217,11 @@
 
 ## 1️⃣5️⃣ Bulk Operations
 
-- bulk_create
-- bulk_update
-- Bulk delete
+- bulk_create() ✅
+- update() ✅
+- bulk_update() ✅
+- delete() ✅
+- Bulk delete ✅
 
 ---
 
