@@ -197,14 +197,12 @@
 
 ## 1️⃣3️⃣ ORM Workouts (Practical)
 
-Models: **Author, Book, Publisher**
-
-- Find books of John or Sam
-- Find total pages of Sam
-- Find total number of books with author name
-- Highest priced variant based on product
-- Maximum workouts
-- Join tables using FK & M2M
+- Find books of John or Sam ✅
+- Find total pages of Sam ✅
+- Find total number of books with author name ✅
+- Highest priced variant based on product ✅
+- Join tables using FK & M2M ✅
+- Maximum workouts ✅
 
 ---
 
