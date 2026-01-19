@@ -260,9 +260,9 @@
 
 ## 1️⃣9️⃣ Static & Media Files
 
-- Static files vs media files
-- STATIC_ROOT vs MEDIA_ROOT
-- How Django handles static files
+- Static files vs media files ✅
+- STATIC_ROOT vs MEDIA_ROOT ✅
+- How Django handles static files ✅
 
 ---
 
