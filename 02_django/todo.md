@@ -243,11 +243,11 @@
 
 ## 1️⃣7️⃣ Meta Options
 
-- Meta class
-- ordering
-- verbose_name
-- unique_together
-- constraints
+- Meta class ✅
+- ordering ✅
+- verbose_name ✅
+- unique_together ✅
+- constraints ✅
 
 ---
 
