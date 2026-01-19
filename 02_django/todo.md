@@ -253,8 +253,8 @@
 
 ## 1️⃣8️⃣ Slug & SEO
 
-- What is a slug
-- SlugField use cases
+- What is a slug ✅
+- SlugField use cases ✅
 
 ---
 
