@@ -227,16 +227,17 @@
 
 ## 1️⃣6️⃣ Model Relationships & Inheritance
 
-- ForeignKey vs OneToOneField
-- ManyToManyField
-- related_name
-- Model inheritance
-  - Abstract base class
-  - Multi-table inheritance
-  - Proxy model (use cases)
-- User model inheritance  
-  - AbstractUser  
-  - AbstractBaseUser
+- ForeignKey ✅
+- OneToOneField ✅
+- ManyToManyField ✅
+- related_name ✅
+- Model inheritance ✅
+  - Abstract base class ✅
+  - Multi-table inheritance ✅
+  - Proxy model ✅
+- User Model Customization ✅
+  - AbstractUser ✅
+  - AbstractBaseUser ✅
 
 ---
 
