@@ -279,11 +279,10 @@
 
 ## 2️⃣1️⃣ WSGI & ASGI
 
-- WSGI purpose
-- ASGI purpose
-- WSGI vs ASGI
-- Django Channels
-- Gunicorn
+- WSGI purpose ✅
+- ASGI purpose ✅
+- WSGI vs ASGI ✅
+- Gunicorn ✅
 
 ---
 
