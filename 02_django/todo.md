@@ -268,12 +268,12 @@
 
 ## 2️⃣0️⃣ Signals
 
-- What are signals
-- Built-in signals
-- Custom signals
-- Signals sync vs async
-- Signal examples
-- When not to use signals
+- What are signals ✅
+- Built-in signals ✅
+- Custom signals ✅
+- Signals sync vs async ✅
+- Signal examples ✅
+- When not to use signals ✅
 
 ---
 
