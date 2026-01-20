@@ -306,8 +306,8 @@
 
 ## 2️⃣4️⃣ Caching & Browser Behavior
 
-- Browser cache
-- Cache headers
-- Django caching basics
+- Browser cache ✅
+- Cache headers ✅
+- Django caching basics ✅
 
 ---
