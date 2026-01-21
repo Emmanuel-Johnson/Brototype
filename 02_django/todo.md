@@ -299,8 +299,8 @@
 
 ## 2️⃣3️⃣ Background Tasks & Realtime
 
-- Celery
-- Django Channels (WebSockets)
+- Celery ✅
+- Django Channels (WebSockets) ✅
 
 ---
 
