@@ -288,12 +288,12 @@
 
 ## 2️⃣2️⃣ Django REST Ecosystem
 
-- Serializers
-- Validators
-- Generic API views
-- Mixins
-- Content negotiation
-- Rate limiting
+- Serializers ✅
+- Validators ✅
+- Generic API views ✅
+- Mixins ✅
+- Content negotiation ✅
+- Rate limiting ✅
 
 ---
 
