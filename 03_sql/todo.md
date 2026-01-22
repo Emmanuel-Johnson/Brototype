@@ -10,13 +10,13 @@
 
 ## 2️⃣ SQL Statements (Command Types)
 
-- DDL (CREATE, ALTER, DROP, TRUNCATE)
-- DML (INSERT, UPDATE, DELETE, SELECT)
-- DCL (GRANT, REVOKE)
-- TCL (Transaction Control Language)
-  - COMMIT
-  - ROLLBACK
-  - SAVEPOINT
+- DDL (CREATE, ALTER, DROP, TRUNCATE) ✅
+- DML (INSERT, UPDATE, DELETE, SELECT) ✅
+- DCL (GRANT, REVOKE) ✅
+- TCL (Transaction Control Language) ✅
+  - COMMIT ✅
+  - ROLLBACK ✅
+  - SAVEPOINT ✅
 
 ---
 
