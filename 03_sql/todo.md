@@ -1,11 +1,10 @@
 ## 1️⃣ SQL Fundamentals
 
 ### Basics
-- What is SQL?
-- What is a database?
-- Schema
-- SQL queries overview
-- Insert statement syntax
+- What is SQL? ✅
+- What is a database? ✅
+- Schema ✅
+- SQL queries overview ✅
 
 ---
 
@@ -216,6 +215,7 @@
 - projects
 
 ### Query Problems
+- Insert statement syntax
 - Find customer names whose total spend is more than 12,000
 - Show each customer’s total amount spent and total number of orders in a single row
 - Projects started in 2023 (using EXTRACT)
