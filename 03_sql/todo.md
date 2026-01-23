@@ -23,28 +23,32 @@
 ## 3️⃣ Tables, Keys & Constraints
 
 ### Keys
-- Primary Key
-- Foreign Key
-- Unique Key
-- Composite Key
-- Natural Key
-- Primary Key vs Unique Key
+- Primary Key ✅
+- Foreign Key ✅
+- Unique Key ✅
+- Composite Key ✅
+- Natural Key ✅
+- Surrogate key ✅
+- Candidate Key ✅
+- Super Key ✅
+- Alternate Key ✅
 
 ### Constraints
-- NOT NULL
-- UNIQUE
-- CHECK
-- DEFAULT
-- FOREIGN KEY
-- Cascading (ON DELETE / ON UPDATE CASCADE)
+- PRIMARY KEY ✅
+- FOREIGN KEY ✅
+- UNIQUE ✅
+- NOT NULL ✅
+- CHECK ✅
+- DEFAULT ✅
+- Cascading (ON DELETE / ON UPDATE CASCADE) ✅
 
 ### Table Operations
-- Create table with primary key
-- Create table with foreign key
-- Add new column
-- Add new column with default value
-- Drop column
-- Join table (via foreign key)
+- Create table with primary key ✅
+- Create table with foreign key ✅
+- Add new column ✅
+- Add new column with default value ✅
+- Drop column ✅
+- Join table (via foreign key) ✅
 
 ---
 
