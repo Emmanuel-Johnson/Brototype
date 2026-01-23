@@ -54,10 +54,9 @@
 
 ## 4️⃣ Relationships
 
-- One-to-One
-- One-to-Many
-- Many-to-Many
-- Self Join
+- One-to-One ✅
+- One-to-Many ✅
+- Many-to-Many ✅
 
 ---
 
