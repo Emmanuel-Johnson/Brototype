@@ -62,14 +62,13 @@
 
 ## 5️⃣ Joins 
 
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- FULL JOIN
-- CROSS JOIN
-- NATURAL JOIN
-- SELF JOIN
-- JOIN syntax and rules
+- INNER JOIN ✅
+- LEFT JOIN ✅
+- RIGHT JOIN ✅
+- FULL JOIN ✅
+- CROSS JOIN ✅
+- NATURAL JOIN ✅
+- SELF JOIN ✅
 
 ---
 
