@@ -74,21 +74,33 @@
 
 ## 6️⃣ Filtering & Grouping
 
-- WHERE clause
-- GROUP BY
-- HAVING
-- WHERE vs HAVING
+WHERE clause ✅
+Comparison operators (=, !=, <>, <, >, <=, >=) ✅
+Logical operators (AND, OR, NOT) ✅
+IN / NOT IN ✅
+BETWEEN ✅
+LIKE / ILIKE ✅
+IS NULL / IS NOT NULL ✅
+DISTINCT ✅
+GROUP BY clause ✅
+HAVING clause ✅
+Aggregate functions ✅
+- COUNT() ✅
+- SUM() ✅
+- AVG() ✅
+- MIN() ✅
+- MAX() ✅
 
 ---
 
 ## 7️⃣ Functions
 
 ### Aggregate Functions
-- COUNT
-- SUM
-- AVG
-- MIN
-- MAX
+- COUNT ✅
+- SUM ✅
+- AVG ✅
+- MIN ✅
+- MAX ✅
 
 ### Scalar Functions
 - String functions
