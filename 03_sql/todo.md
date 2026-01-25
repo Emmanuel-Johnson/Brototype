@@ -103,9 +103,12 @@ Aggregate functions ✅
 - MAX ✅
 
 ### Scalar Functions
-- String functions
-- Date functions
-- Numeric functions
+- String functions ✅
+- Numeric functions ✅
+- Date / Time functions ✅
+- NULL handling functions ✅
+- Conditional functions ✅
+- Type conversion functions ✅
 
 ---
 
