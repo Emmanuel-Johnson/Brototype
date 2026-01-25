@@ -114,15 +114,15 @@ Aggregate functions ✅
 
 ## 8️⃣ Subqueries & Operators
 
-- Subquery (basic & advanced)
-- Correlated subquery
-- EXISTS operator
-- ANY operator
-- ALL operator
-- UNION (rules & limitations)
-- UNION ALL
-- WITH clause
-- CTE (Common Table Expression)
+- Subquery (basic & advanced) ✅
+- Correlated subquery ✅
+- EXISTS operator ✅
+- ANY operator ✅
+- ALL operator ✅
+- UNION (rules & limitations) ✅
+- UNION ALL ✅
+- WITH clause ✅
+- CTE (Common Table Expression) ✅
 
 ---
 
