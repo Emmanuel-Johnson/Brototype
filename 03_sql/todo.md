@@ -128,16 +128,15 @@ Aggregate functions ✅
 
 ## 9️⃣ ACID & Transactions
 
-- What is ACID?
-- ACID properties
-  - Atomicity
-  - Consistency
-  - Isolation
-  - Durability
-- Durability in SQL
-- Transactions
-- Transaction isolation levels
-- Transaction workouts
+- What is ACID? ✅
+- ACID properties ✅
+  - Atomicity ✅
+  - Consistency ✅
+  - Isolation ✅
+  - Durability ✅
+- Transactions ✅
+- Transaction isolation levels ✅
+- Transaction workouts ✅
 
 ---
 
