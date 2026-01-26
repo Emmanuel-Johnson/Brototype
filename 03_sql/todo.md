@@ -153,10 +153,10 @@ Aggregate functions ✅
 
 ## 1️⃣1️⃣ SQL Architecture
 
-- 3-Schema Architecture
-  - Internal schema
-  - Conceptual schema
-  - External schema
+- 3-Schema Architecture ✅
+  - Internal schema ✅
+  - Conceptual schema ✅
+  - External schema ✅
 
 ---
 
