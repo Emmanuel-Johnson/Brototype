@@ -162,12 +162,12 @@ Aggregate functions ✅
 
 ## 1️⃣2️⃣ Indexing
 
-- What is indexing?
-- How indexing works
-- Index
-- Clustered index
-- Non-clustered index
-- Advantages & disadvantages of indexing
+- What is indexing? ✅
+- How indexing works ✅
+- Index ✅
+- Clustered index ✅
+- Non-clustered index ✅
+- Advantages & disadvantages of indexing ✅
 
 ---
 
