@@ -207,14 +207,14 @@ Aggregate functions ✅
 
 ## 1️⃣5️⃣ NoSQL Basics
 
-- What is NoSQL?
-- Types of NoSQL
-  - Key-Value
-  - Document
-  - Column-based
-  - Graph
-- SQL vs NoSQL
-- ACID vs BASE
+- What is NoSQL? ✅
+- Types of NoSQL ✅
+  - Key-Value ✅
+  - Document ✅
+  - Column-based ✅
+  - Graph ✅
+- SQL vs NoSQL ✅
+- ACID vs BASE ✅
 
 ---
 
