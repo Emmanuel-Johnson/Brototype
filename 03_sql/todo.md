@@ -199,9 +199,9 @@ Aggregate functions ✅
 
 ## 1️⃣4️⃣ SQL Security
 
-- What is SQL Injection?
-- How SQL injection happens
-- Preventing SQL injection
+- What is SQL Injection? ✅
+- How SQL injection happens ✅
+- Preventing SQL injection ✅
 
 ---
 
