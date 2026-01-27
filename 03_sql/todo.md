@@ -174,26 +174,26 @@ Aggregate functions ✅
 ## 1️⃣3️⃣ Views, Procedures & Triggers
 
 ### Views
-- SQL View
-- Creating views
-- Updating through views
-- Use cases
+- SQL View ✅
+- Creating views ✅
+- Updating through views ✅
+- Use cases ✅
 
 ### Stored Procedures
-- What is a stored procedure?
-- Creating stored procedures
-- Calling stored procedures
-- Use cases
+- What is a stored procedure? ✅
+- Creating stored procedures ✅
+- Calling stored procedures ✅
+- Use cases ✅
 
 ### Triggers
-- What is a trigger?
-- BEFORE trigger
-- AFTER trigger
-- Use cases
+- What is a trigger? ✅
+- BEFORE trigger ✅
+- AFTER trigger ✅
+- Use cases ✅
 
 ### Cursor
-- What is a cursor?
-- Cursor use cases
+- What is a cursor? ✅
+- Cursor use cases ✅
 
 ---
 
