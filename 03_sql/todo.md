@@ -255,7 +255,7 @@ Aggregate functions ✅
 
 ## 1️⃣7️⃣ User & Role Management
 
-- CREATE USER vs CREATE ROLE
-- GRANT & REVOKE permissions
+- CREATE USER vs CREATE ROLE ✅
+- GRANT & REVOKE permissions ✅
 
 ---
