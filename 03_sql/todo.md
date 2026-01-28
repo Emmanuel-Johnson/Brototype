@@ -221,35 +221,34 @@ Aggregate functions ✅
 ## 1️⃣6️⃣ Practical SQL Workouts 
 
 ### Given Tables
-- customers
-- orders
-- shipping
-- employees
-- students
-- projects
+- customers ✅
+- orders ✅
+- shipping ✅
+- employees ✅
+- students ✅
+- projects ✅
 
 ### Query Problems
-- Insert statement syntax
-- Find customer names whose total spend is more than 12,000
-- Show each customer’s total amount spent and total number of orders in a single row
-- Projects started in 2023 (using EXTRACT)
-- Projects that haven’t started yet
-- Find student with highest mark
-- Find student with second highest mark
-- Unique full names
-- Reduce salary by 10% if salary is above average
-- Increase salary where salary is less than average
-- Number of employees in Engineering department
-- Update rows where ID is even
-- SQL queries using:
-  - Multiple joins
-  - String functions
-  - Date functions
-  - Aggregate functions
-  - HAVING clause logic
-- UNION-based queries
-- Subquery-based problems
-- Normalization (2NF & 3NF examples)
+- Insert statement syntax ✅
+- Find customer names whose total spend is more than 12,000 ✅
+- Show each customer’s total amount spent and total number of orders in a single row ✅
+- Projects started in 2023 (using EXTRACT) ✅
+- Projects that haven’t started yet ✅
+- Find student with highest mark ✅
+- Find student with second highest mark ✅
+- Unique full names ✅
+- Reduce salary by 10% if salary is above average ✅
+- Increase salary where salary is less than average ✅
+- Number of employees in Engineering department ✅
+- Update rows where ID is even ✅
+- SQL queries using: ✅
+  - Multiple joins ✅
+  - String functions ✅
+  - Date functions ✅
+  - Aggregate functions ✅
+  - HAVING clause logic ✅
+- UNION-based queries ✅
+- Subquery-based problems ✅
 
 ---
 
