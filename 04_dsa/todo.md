@@ -1,23 +1,23 @@
 ## 1️⃣ Core DSA Fundamentals
 
-- What are Data Structures?
-- What are Algorithms?
-- Memory allocation
-- Memory leak
-- Why data structures are needed
-- Complexity analysis
-- Time complexity vs Space complexity
-- How time and space complexity are calculated
-- Asymptotic analysis
-  - Big-O (worst case)
-  - Big-Ω (best case)
-  - Big-Θ (average case)
-- Common time complexities
-  - O(1)
-  - O(log N)
-  - O(N)
-  - O(N log N)
-  - O(N²)
+- What are Data Structures? ✅
+- What are Algorithms? ✅
+- Memory allocation ✅
+- Memory leak ✅
+- Why data structures are needed ✅
+- Complexity analysis ✅
+- Time complexity vs Space complexity ✅
+- How time and space complexity are calculated ✅
+- Asymptotic analysis ✅
+  - Big-O (worst case) ✅
+  - Big-Ω (best case) ✅
+  - Big-Θ (average case) ✅
+- Common time complexities ✅
+  - O(1) ✅
+  - O(log N) ✅
+  - O(N) ✅
+  - O(N log N) ✅
+  - O(N²) ✅
 
 ---
 
