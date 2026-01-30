@@ -24,17 +24,17 @@
 ## 2️⃣ Arrays & Strings
 
 ### Arrays
-- Array
-- Static vs Dynamic array
-- Jagged array
-- Time complexity of array operations
+- Array ✅
+- Static vs Dynamic array ✅
+- Jagged array ✅
+- Time complexity of array operations ✅
 
 ### Strings
-- String
-- Character encoding
-- Anagrams
-- Replace each alphabet in a string with the n-th next alphabet
-- Check if a number contains a digit without using strings
+- String ✅
+- Character encoding ✅
+- Anagrams ✅
+- Replace each alphabet in a string with the n-th next alphabet ✅
+- Check if a number contains a digit without using strings ✅ 
 
 ---
 
