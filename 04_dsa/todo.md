@@ -41,27 +41,27 @@
 ## 3️⃣ Linked List
 
 ### Types of Linked List
-- Singly Linked List
-- Doubly Linked List
-- Circular Linked List
-- Differences between types
+- Singly Linked List ✅
+- Doubly Linked List ✅
+- Circular Linked List ✅
+- Differences between types ✅
 
 ### Operations
-- Construct singly & doubly linked list
-- Convert array to linked list
-- Insert node at beginning
-- Insert node at end
-- Insert node before / after a given value
-- Insert node at a given index (logic only)
-- Delete node by value
-- Print elements in order
-- Print elements in reverse order
-- Remove duplicates from sorted linked list
-- Reverse a singly linked list
+- Construct singly & doubly linked list ✅
+- Convert array to linked list ✅
+- Insert node at beginning ✅
+- Insert node at end ✅
+- Insert node before / after a given value ✅
+- Insert node at a given index (logic only) ✅
+- Delete node by value ✅
+- Print elements in order ✅
+- Print elements in reverse order ✅
+- Remove duplicates from sorted linked list ✅
+- Reverse a singly linked list ✅
 
 ### Complexity
-- Time complexity of insertion
-- Time complexity of deletion
+- Time complexity of sll ✅
+- Time complexity of dll ✅
 
 ---
 
