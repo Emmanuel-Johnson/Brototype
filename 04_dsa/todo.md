@@ -67,9 +67,9 @@
 
 ## 4️⃣ Searching Algorithms
 
-- Linear Search
-- Binary Search
-- Time complexity of searching algorithms
+- Linear Search ✅
+- Binary Search ✅
+- Time complexity of searching algorithms ✅
 
 ---
 
