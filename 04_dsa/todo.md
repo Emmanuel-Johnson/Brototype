@@ -75,10 +75,10 @@
 
 ## 5️⃣ Recursion
 
-- What is recursion?
-- Recursive function structure
-- Base case in recursion
-- Recursive vs iterative approach
+- What is recursion? ✅
+- Recursive function structure ✅
+- Base case in recursion ✅
+- Recursive vs iterative approach ✅
 
 ---
 
