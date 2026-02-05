@@ -84,20 +84,19 @@
 
 ## 6️⃣ Sorting Algorithms
 
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
-- Heap Sort
+- Bubble Sort ✅
+- Selection Sort ✅
+- Insertion Sort ✅
+- Merge Sort ✅
+- Quick Sort ✅
 
 ### Sorting Analysis
-- Best, worst, average case complexities
-- Quick sort time complexity
-- Best case of quick sort
-- Best case of insertion sort
-- Merge sort time complexity
-- Why merge sort is best for linked lists
+- Best, worst, average case complexities ✅
+- Quick sort time complexity ✅
+- Best case of quick sort ✅
+- Best case of insertion sort ✅
+- Merge sort time complexity ✅
+- Why merge sort is best for linked lists ✅
 
 ---
 
