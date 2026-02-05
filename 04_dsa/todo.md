@@ -102,17 +102,17 @@
 
 ## 7️⃣ Stack
 
-- Stack
-- Stack operations
-  - PUSH
-  - POP
-  - Display
-- Stack insertion position
-- Stack deletion position
-- Stack overflow
-- Stack underflow
-- Min Stack
-- Sort a stack using a temporary stack
+- Stack ✅
+- Stack operations ✅
+  - PUSH ✅
+  - POP ✅
+  - Display ✅
+- Stack insertion position ✅
+- Stack deletion position ✅
+- Stack overflow ✅
+- Stack underflow ✅
+- Min Stack ✅
+- Sort a stack using a temporary stack ✅
 
 ---
 
