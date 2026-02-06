@@ -118,13 +118,13 @@
 
 ## 8️⃣ Queue
 
-- Queue
-- Enqueue
-- Dequeue
-- Display
-- Circular Queue
-- Priority Queue
-- Queue using singly linked list
+- Queue ✅
+- Enqueue ✅
+- Dequeue ✅
+- Display ✅
+- Circular Queue ✅
+- Priority Queue ✅
+- Queue using singly linked list ✅
 
 ---
 
