@@ -128,26 +128,25 @@
 
 ---
 
-## 9️⃣ Hashing
+## 9️⃣ Hash table
 
-- Hash Table
-- Hash function
-- Types of hash functions
-- Collisions
-- Collision handling methods
-  - Chaining
-  - Linear probing
-  - Quadratic probing
-- Linear probing vs Quadratic probing
-- Load factor
-- Threshold value
-- Rehashing
-- Applications of hash table
-- Real-life examples
+- Hash Table ✅
+- Hash function ✅
+- Types of hash functions ✅
+- Collisions ✅
+- Collision handling methods ✅
+  - Chaining ✅
+  - Linear probing ✅
+  - Quadratic probing ✅
+- Load factor ✅
+- Threshold value ✅
+- hashing ✅
+- Rehashing ✅
+- Real-life examples ✅
 
 ### Implementations
-- Hash table with linear probing
-- Collision handling implementation
+- Hash table with linear probing ✅
+- Collision handling implementation ✅
 
 ---
 
