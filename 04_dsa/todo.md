@@ -150,35 +150,34 @@
 
 ---
 
-## 🔟 Trees
+## 🔟 Tree
 
 ### Tree Basics
-- Tree
-- Terminology (root, height, depth)
-- Tree vs Trie
+- Tree ✅
+- Terminology (root, height, depth) ✅
+- Tree vs Trie ✅
 
 ### Binary Tree
-- Create a binary tree
-- Tree traversals
-  - Preorder
-  - Inorder
-  - Postorder
-- Calculate height of tree
+- Create a binary tree ✅
 
 ### Binary Search Tree (BST)
-- BST properties
-- Insert
-- Search
-- Delete
-- Validate BST
-- Closest value in BST
-- BT vs BST
+- BST properties ✅
+- BT vs BST ✅
+- Insert ✅
+- Search ✅
+- Delete ✅
+- Tree traversals ✅
+  - Preorder ✅
+  - Inorder ✅
+  - Postorder ✅
+- Validate BST ✅
+- Closest value in BST ✅
+- Calculate height of tree ✅
 
 ### Balanced Trees
-- AVL Tree
-- Red-Black Tree
-- AVL vs Red-Black Tree
-- B-Tree
+- AVL Tree ✅
+- Red-Black Tree ✅
+- B-Tree ✅
 
 ---
 
@@ -198,7 +197,6 @@
 ## 1️⃣2️⃣ Trie
 
 - Trie
-- Trie applications
 - Tree vs Trie
 
 ---
@@ -227,31 +225,15 @@
 
 ## 1️⃣4️⃣ Applications of Data Structures
 
-- Applications of arrays
-- Applications of linked lists
-- Applications of stacks
-- Applications of queues
-- Applications of hash tables
-- Applications of trees
-- Applications of graphs
-
----
-
-## 1️⃣5️⃣ Practice Problems & Workouts 
-
-- Reverse a singly linked list
-- Linked list insertion workouts
-- Doubly linked list insertion logic
-- Collision handling
-- Load factor problems
-- Hash table implementation
-- Linear probing implementation
-- Priority queue problems
-- BFS & DFS traversal problems
-- Find cycles in graph
-- Minimum spanning tree
-- Insertion sort implementation
-- Reduce / increase values using conditions
-- Blind 75
+- Applications of array
+- Applications of string
+- Applications of linked list
+- Applications of stack
+- Applications of queue
+- Applications of hash table
+- Applications of tree
+- Applications of heap
+- Applications of trie
+- Applications of graph
 
 ---
