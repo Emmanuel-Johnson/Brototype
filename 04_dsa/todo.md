@@ -183,14 +183,14 @@
 
 ## 1️⃣1️⃣ Heap
 
-- Heap
-- Min Heap
-- Max Heap
-- Heapify (concept & complexity)
-- Build heap
-- Insert into heap
-- Remove from heap
-- Heap Sort
+- Heap ✅
+- Min Heap ✅
+- Max Heap ✅
+- Heapify (concept & complexity) ✅
+- Build heap ✅
+- Insert into heap ✅
+- Remove from heap ✅
+- Heap Sort ✅
 
 ---
 
