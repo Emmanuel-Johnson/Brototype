@@ -155,7 +155,6 @@
 ### Tree Basics
 - Tree ✅
 - Terminology (root, height, depth) ✅
-- Tree vs Trie ✅
 
 ### Binary Tree
 - Create a binary tree ✅
@@ -196,8 +195,8 @@
 
 ## 1️⃣2️⃣ Trie
 
-- Trie
-- Tree vs Trie
+- Trie ✅
+- Tree vs Trie ✅
 
 ---
 
