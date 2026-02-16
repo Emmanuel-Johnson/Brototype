@@ -158,6 +158,20 @@ class BinarySearchTree:
             return -1
         return 1 + max(self._height(node.left), self._height(node.right))
 
+    # ---------------- BFS ----------------
+    def bfs(self):
+        if self.root is None:
+            return []
+        queue = deque([self.root])
+        result = []
+        while queue:
+            node = queue.popleft()
+            result.append(node.value)
+            if node.left:
+                queue.append(node.left)
+            if node.right:
+                queue.append(node.right)
+        return result
 
 # ---------------- TESTING ----------------
 bst = BinarySearchTree()

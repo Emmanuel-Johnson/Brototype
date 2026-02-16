@@ -172,6 +172,7 @@
 - Validate BST ✅
 - Closest value in BST ✅
 - Calculate height of tree ✅
+- BFS ✅
 
 ### Balanced Trees
 - AVL Tree ✅
@@ -203,22 +204,25 @@
 ## 1️⃣3️⃣ Graphs
 
 ### Graph Basics
-- Graph
-- Directed vs Undirected graph
-- Degree of node
-- Adjacency Matrix
-- Adjacency List
+- Graph ✅
+- Directed vs Undirected graph ✅
+- Weighted vs Unweighted Graph ✅
+- Cyclic Graph, Acyclic Graph ✅
+- Connected Graph, Disconnected Graph ✅
+- Complete Graph ✅
+- Bipartite Graph ✅
+- Terminology ✅
+- Adjacency Matrix ✅
+- Adjacency List ✅
+- Minimum Spanning Tree ✅
 
-### Traversals
-- BFS
-- DFS
-- Which traversal uses stack?
-- Time complexity of BFS & DFS
-- Graph traversal problems (given nodes & edges)
-
-### Advanced Graph Concepts
-- Find cycle in graph
-- Minimum Spanning Tree
+### Graph problems
+- BFS ✅
+- DFS ✅
+- Graph traversal problems (given nodes & edges) ✅
+- Which traversal uses stack? ✅
+- Find cycle in graph ✅
+- Time complexity of BFS & DFS ✅
 
 ---
 
