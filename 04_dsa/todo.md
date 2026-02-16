@@ -228,15 +228,15 @@
 
 ## 1️⃣4️⃣ Applications of Data Structures
 
-- Applications of array
-- Applications of string
-- Applications of linked list
-- Applications of stack
-- Applications of queue
-- Applications of hash table
-- Applications of tree
-- Applications of heap
-- Applications of trie
-- Applications of graph
+- Applications of array ✅
+- Applications of string ✅
+- Applications of linked list ✅
+- Applications of stack ✅
+- Applications of queue ✅
+- Applications of hash table ✅
+- Applications of tree ✅
+- Applications of heap ✅
+- Applications of trie ✅
+- Applications of graph ✅
 
 ---
