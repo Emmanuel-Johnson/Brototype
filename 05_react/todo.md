@@ -1,34 +1,34 @@
 ## 1️⃣ React Fundamentals
 
 ### Introduction
-- What is React?
-- Why React?
-- Limitations of React
-  - SEO issues
-  - Initial loading time
-- SPA vs MPA
-- Cons of SPA
-- CSR vs SSR
-- Why SSR is faster for initial load
-- Dynamic Rendering
+- What is React? ✅
+- Why React? ✅
+- Limitations of React ✅
+  - SEO issues ✅
+  - Initial loading time ✅
+- SPA vs MPA ✅
+- Cons of SPA ✅
+- CSR vs SSR ✅
+- Why SSR is faster for initial load ✅
+- Dynamic Rendering ✅
 
 ### Vite
-- What is Vite?
-- Advantages of Vite over CRA
-  - Faster dev server
-  - Optimized builds
-  - Lightweight config
-- Setting up React with Vite
-- Project structure
-- vite.config.js overview
+- What is Vite? ✅
+- Advantages of Vite over CRA ✅
+  - Faster dev server ✅
+  - Optimized builds ✅
+  - Lightweight config ✅
+- Setting up React with Vite ✅
+- Project structure ✅
+- vite.config.js overview ✅
 
 ### Core Web Concepts
-- DOM concepts in JavaScript
-- Actual DOM vs Virtual DOM
-- Shadow DOM
-- React Fiber
-- Babel & Webpack
-- Transpiler
+- DOM concepts in JavaScript ✅
+- Actual DOM vs Virtual DOM ✅
+- Shadow DOM ✅
+- React Fiber ✅
+- Babel & Webpack ✅
+- Transpiler ✅
 
 ---
 
