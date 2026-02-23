@@ -35,30 +35,30 @@
 ## 2️⃣ JavaScript Essentials for React
 
 ### ES6+ Features
-- Arrow functions
-- Destructuring
-- Spread & Rest operators
-- Import / Export
-- Optional chaining
-- IIFE
+- Arrow functions ✅
+- Destructuring ✅
+- Spread & Rest operators ✅
+- Import / Export ✅
+- Optional chaining ✅
+- IIFE ✅
 
 ### Array & Functional Methods
-- map()
-- filter()
-- reduce()
-- Higher-order functions
-- Pure functions
+- map() ✅
+- filter() ✅
+- reduce() ✅
+- Higher-order functions ✅
+- Pure functions ✅
 
 ### Async JavaScript
-- Promise
-- async / await
-- Fetch API
-- AJAX
-- jQuery (conceptual understanding)
+- Promise ✅
+- async / await ✅
+- Fetch API ✅
+- AJAX ✅
+- jQuery ✅
 
 ### Function Utilities
-- call(), apply(), bind()
-- throw vs throws
+- call(), apply(), bind() ✅
+- throw vs throws ✅
 
 ---
 
