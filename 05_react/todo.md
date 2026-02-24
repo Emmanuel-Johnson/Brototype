@@ -64,11 +64,11 @@
 
 ## 3️⃣ JSX & Rendering
 
-- JSX vs HTML
-- Expressions in JSX
-- Conditional rendering
-- Lists & keys
-- Dynamic rendering in React
+- JSX vs HTML ✅
+- Expressions in JSX ✅
+- Conditional rendering ✅
+- Lists & keys ✅
+- Dynamic rendering in React ✅
 
 ---
 
