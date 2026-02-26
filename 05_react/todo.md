@@ -100,12 +100,12 @@
 ## 5️⃣ Lifecycle Methods
 
 ### Class Component Lifecycle
-- Mounting
-- Updating
-- Unmounting
-- componentDidMount
-- componentDidUpdate
-- componentWillUnmount
+- Mounting ✅
+- Updating ✅
+- Unmounting ✅
+- componentDidMount ✅
+- componentDidUpdate ✅
+- componentWillUnmount ✅
 
 ---
 
