@@ -75,25 +75,25 @@
 ## 4️⃣ Components in React
 
 ### Component Basics
-- What are components?
-- Reusability concept
-- Functional components
-- Class components (basics)
+- What are components? ✅
+- Reusability concept ✅
+- Functional components ✅
+- Class components ✅
 
 ### Component Types
-- Stateful vs Stateless components
-- Controlled vs Uncontrolled components
-- Pure Component
-- Built-in components in React
+- Stateful vs Stateless components ✅
+- Controlled vs Uncontrolled components ✅
+- Pure Component ✅
+- Built-in components ✅
 
 ### Advanced Patterns
-- Higher Order Components (HOC)
-- Render props
-- forwardRef
-- useRef vs forwardRef
-- How to pass data:
-  - Parent → Child
-  - Child → Parent
+- Higher Order Components (HOC) ✅
+- Render props ✅
+- useRef ✅
+- forwardRef ✅
+- How to pass data: ✅
+  - Parent → Child ✅
+  - Child → Parent ✅
 
 ---
 
