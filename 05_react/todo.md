@@ -112,35 +112,35 @@
 ## 6️⃣ Hooks
 
 ### Hook Fundamentals
-- What are hooks?
-- Hooks vs functions
-- Rules of hooks
-- Why hooks should not be used in conditionals
+- What are hooks? ✅
+- Hooks vs functions ✅
+- Rules of hooks ✅
+- Why hooks should not be used in conditionals ✅
 
 ### Built-in Hooks
-- useState
-- useEffect
-  - Exact lifecycle mapping
-  - Cleanup (unmount logic)
-- useRef
-  - Storing mutable values
-- useContext
-- useReducer
-- useMemo
-- useCallback
-- React.memo
-- useNavigate vs useHistory
-- useNavigate
+- useState ✅
+- useEffect ✅
+  - Exact lifecycle mapping ✅
+  - Cleanup (unmount logic) ✅
+- useRef ✅
+  - Storing mutable values ✅
+- useContext ✅
+- useReducer ✅
+- useMemo ✅
+- React.memo ✅
+- useCallback ✅
+- useNavigate ✅
+- useHistory ✅
 
 ### Performance Hooks
-- useMemo vs useCallback
-- React.memo vs useMemo
-- When to optimize
+- useMemo vs useCallback ✅
+- React.memo vs useMemo ✅
+- When to optimize ✅
 
 ### Advanced Hooks
-- Custom hooks
-- React.lazy (code splitting)
-- Suspense
+- Custom hooks ✅
+- React.lazy (code splitting) ✅
+- Suspense ✅
 
 ---
 
