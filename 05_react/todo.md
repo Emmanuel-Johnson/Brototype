@@ -146,14 +146,18 @@
 
 ## 7️⃣ Event Handling
 
-- Event handlers in React
-- onClick
-- onChange
-- Synthetic events
-- Event pooling
-- Event bubbling & capturing
-- Debouncing
-- Click button → show alert
+- Event handlers in React ✅
+- Synthetic events ✅
+- onClick ✅
+- onChange ✅
+- preventDefault() ✅
+- stopPropagation() ✅
+- Passing arguments to handlers ✅
+- Some common form/keyboard events ✅
+- Event pooling ✅
+- Event bubbling & capturing ✅
+- Debouncing ✅
+- Click button → show alert ✅
 
 ---
 
