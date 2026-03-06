@@ -163,12 +163,12 @@
 
 ## 8️⃣ Routing (react-router-dom)
 
-- What is routing?
-- BrowserRouter
-- MemoryRouter
-- Routes & Route
-- useNavigate
-- Routing in React applications
+- What is routing? ✅
+- Routing in React applications ✅
+- BrowserRouter ✅
+- MemoryRouter ✅
+- Routes & Route ✅
+- useNavigate ✅
 
 ---
 
