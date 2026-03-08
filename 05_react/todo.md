@@ -233,11 +233,11 @@
 
 ## 1️⃣3️⃣ Project Structure & Tooling
 
-- package.json
-- package-lock.json
-- Why package-lock.json is needed
-- Dependency management
-- Folder structure best practices
+- package.json ✅
+- package-lock.json ✅
+- Why package-lock.json is needed ✅
+- Dependency management ✅
+- Folder structure best practices ✅
 
 ---
 
