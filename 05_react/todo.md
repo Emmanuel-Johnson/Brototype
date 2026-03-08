@@ -222,12 +222,12 @@
 
 ## 1️⃣2️⃣ React Internals & Advanced Concepts
 
-- React Fiber
-- StrictMode
-- Synthetic Events
-- Event Pooling
-- Dynamic Rendering
-- Shadow DOM vs Virtual DOM
+- React Fiber ✅
+- StrictMode ✅
+- Synthetic Events ✅
+- Event Pooling ✅
+- Dynamic Rendering ✅
+- Shadow DOM vs Virtual DOM ✅
 
 ---
 
