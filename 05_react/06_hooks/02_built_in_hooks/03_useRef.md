@@ -306,3 +306,174 @@ Big difference.
 `useRef` =
 
 > "Remember this, but don't re-render when it changes."
+
+<br>
+<br>
+<br>
+
+# useRef in React
+
+`useRef` in React lets you store a value that **persists between renders without causing a re-render**.
+
+So unlike `useState`, changing a `useRef` value **does NOT re-render the component**.
+
+---
+
+# Basic Syntax
+
+```javascript
+const refName = useRef(initialValue);
+```
+
+Access the value using:
+
+```javascript
+refName.current
+```
+
+---
+
+# Example: Store and Update Values using useRef
+
+```javascript
+import { useRef } from "react";
+
+function Counter() {
+  const countRef = useRef(0);
+
+  const handleClick = () => {
+    countRef.current = countRef.current + 1;
+    console.log("Count:", countRef.current);
+  };
+
+  return (
+    <div>
+      <button onClick={handleClick}>Increase</button>
+    </div>
+  );
+}
+
+export default Counter;
+```
+
+---
+
+# How It Works
+
+## 1️⃣ Create Ref
+
+```javascript
+const countRef = useRef(0);
+```
+
+* Initial value = **0**
+
+---
+
+## 2️⃣ Update Value
+
+```javascript
+countRef.current = countRef.current + 1;
+```
+
+* The value updates
+* React **does NOT re-render the component**
+
+---
+
+## 3️⃣ Access Value
+
+```javascript
+console.log(countRef.current);
+```
+
+Example output:
+
+```
+Count: 1
+Count: 2
+Count: 3
+```
+
+---
+
+# Difference Between useState and useRef
+
+| Feature                       | useState | useRef |
+| ----------------------------- | -------- | ------ |
+| Stores value                  | ✅        | ✅      |
+| Causes re-render              | ✅        | ❌      |
+| Used for UI updates           | ✅        | ❌      |
+| Used for persistent variables | ❌        | ✅      |
+
+---
+
+# Real Example: Count Renders
+
+This is a **very common React interview example**.
+
+```javascript
+import { useState, useEffect, useRef } from "react";
+
+function App() {
+  const [count, setCount] = useState(0);
+  const renderCount = useRef(0);
+
+  useEffect(() => {
+    renderCount.current = renderCount.current + 1;
+  });
+
+  return (
+    <div>
+      <button onClick={() => setCount(count + 1)}>
+        Click
+      </button>
+
+      <p>Count: {count}</p>
+      <p>Component Rendered: {renderCount.current} times</p>
+    </div>
+  );
+}
+
+export default App;
+```
+
+---
+
+# When Developers Use useRef
+
+Common uses:
+
+### 1️⃣ Access DOM elements
+
+```javascript
+const inputRef = useRef();
+```
+
+---
+
+### 2️⃣ Store previous values
+
+Store the previous state or props value.
+
+---
+
+### 3️⃣ Store timers / intervals
+
+```javascript
+const intervalRef = useRef();
+```
+
+Useful for clearing intervals later.
+
+---
+
+### 4️⃣ Track component renders
+
+Often used for debugging or performance analysis.
+
+---
+
+# 💡 Golden Rule
+
+`useRef` stores values **across renders without triggering a re-render**.

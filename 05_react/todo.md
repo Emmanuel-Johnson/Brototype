@@ -243,25 +243,10 @@
 
 ## 1️⃣4️⃣ Practical Tasks & Workouts 
 
-### Basic Tasks
-- Counter app with start & stop
-- Fetch data using useEffect
-- API data fetching component
-- Print message when component unmounts
-- Store and update values using useRef
-
-### Intermediate Tasks
-- To-Do App
-- Controlled form
-- Routing-based app
-- Context-based state sharing
-- Custom hook creation
-
-### Advanced Tasks
-- useReducer-based app
-- Redux-based app
-- React.lazy + Suspense
-- HOC implementation
-- Error Boundary implementation
+- Counter app with start & stop ✅
+- Fetch data using useEffect ✅
+- API data fetching component ✅
+- Print message when component unmounts ✅
+- To-Do App ✅
 
 ---
