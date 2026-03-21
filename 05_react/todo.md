@@ -194,29 +194,29 @@
 ## 1️⃣1️⃣ Redux & State Management
 
 ### Redux Basics
-- What is Redux?
-- Core principles of Redux
-- State vs variables
-- Why reducer is a pure function
-- Immutability of state
+- What is Redux? ✅
+- Core principles of Redux ✅
+- State vs variables ✅
+- Why reducer is a pure function ✅
+- Immutability of state ✅
 
 ### Redux Toolkit
-- redux-toolkit
-- createSlice
-- useSelector
-- useDispatch
-- combineReducers
-- createAsyncThunk
-- Immer library (why & how)
+- redux-toolkit ✅
+- createSlice ✅
+- useSelector ✅
+- useDispatch ✅
+- combineReducers ✅
+- createAsyncThunk ✅
+- Immer library ✅
 
 ### Async Handling
-- Redux Thunk
-- Redux Saga (comparison)
-- Handling async actions
+- Redux Thunk ✅
+- Redux Saga ✅
+- Handling async actions ✅
 
 ### Middleware
-- Redux middleware
-- Performance optimization in Redux
+- Redux middleware ✅
+- Performance optimization in Redux ✅
 
 ---
 
