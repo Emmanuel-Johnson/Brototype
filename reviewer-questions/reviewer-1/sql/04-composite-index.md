@@ -1,0 +1,3 @@
+- A composite index is an index created on multiple columns in a table.
+- It improves query performance when searches use those columns together.
+- The order of columns in the index is important for optimization.

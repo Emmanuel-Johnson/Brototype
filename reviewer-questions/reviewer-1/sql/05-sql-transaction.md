@@ -1,0 +1,3 @@
+- A transaction in SQL is a group of database operations treated as one unit.
+- If all operations succeed, the changes are saved; if any fail, all changes are rolled back.
+- It helps maintain data consistency and reliability.

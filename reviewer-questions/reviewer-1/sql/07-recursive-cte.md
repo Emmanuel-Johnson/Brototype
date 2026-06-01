@@ -1,0 +1,3 @@
+- A recursive CTE is a Common Table Expression that refers to itself to process hierarchical or repeated data.
+- It runs repeatedly until a condition is met.
+- It is commonly used for tree structures like employee-manager relationships.

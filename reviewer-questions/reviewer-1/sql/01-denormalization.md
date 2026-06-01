@@ -1,0 +1,3 @@
+- Denormalization is the process of adding duplicate data to reduce complex joins and improve read performance.
+- It makes data retrieval faster, especially in large databases.
+- The downside is increased storage and possible data inconsistency.

@@ -22,16 +22,16 @@ Django
 
 SQL
 
-[ ] What is denormalization? 
-[ ] What is atomicity? 
+[x] What is denormalization? 
+[x] What is atomicity? 
 
-[ ] What is a correlated subquery? 
-[ ] What is a composite index? 
-[ ] What is denormalization? 
-[ ] What is a transaction in SQL? 
-[ ] What is a materialized view? 
-[ ] What is a recursive CTE? 
-[ ] What is replication? 
+[x] What is a correlated subquery? 
+[x] What is a composite index? 
+[x] What is denormalization? 
+[x] What is a transaction in SQL? 
+[x] What is a materialized view? 
+[x] What is a recursive CTE? 
+[x] What is replication? 
 [ ] Create a CTE to display customers with pending shipment. 
 
 DSA

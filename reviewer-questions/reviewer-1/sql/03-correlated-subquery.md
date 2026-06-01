@@ -1,0 +1,3 @@
+- A correlated subquery is a subquery that depends on the outer query to get its values.
+- It runs once for each row processed by the outer query.
+- It is commonly used for row-by-row comparisons or filtering.

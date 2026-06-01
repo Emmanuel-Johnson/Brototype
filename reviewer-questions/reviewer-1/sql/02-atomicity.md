@@ -1,0 +1,3 @@
+- Atomicity means a transaction is treated as one complete unit of work.
+- Either all operations succeed, or all are rolled back if any step fails.
+- It helps keep the database consistent and prevents partial updates.

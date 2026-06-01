@@ -12,6 +12,7 @@ Python
 [x] What is a generator 
 [x] Duck typing 
 [x] Find vowels 
+[ ] Rotate the list by k positions
 
 Django
 
@@ -92,5 +93,5 @@ React
 [ ] Create a Redux component for a todo app - partially done 
 [ ] Create toggle buttons 
 [ ] One-way data binding 
-[ ] Viewport vs resolution 
-[ ] ESModules vs CommonJS 
+[x] Viewport vs resolution 
+[x] ESModules vs CommonJS 

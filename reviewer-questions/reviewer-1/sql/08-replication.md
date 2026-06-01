@@ -1,0 +1,3 @@
+- Replication is the process of copying data from one database server to another server.
+- It is used for backup, high availability, and improving read performance.
+- Changes in the main database are synchronized to replica databases.

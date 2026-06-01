@@ -1,0 +1,3 @@
+- A materialized view is a database object that stores the result of a query physically like a table.
+- It improves read performance because the data is already precomputed.
+- The stored data must be refreshed to stay updated with the original tables.
