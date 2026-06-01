@@ -1,0 +1,3 @@
+- only() loads only the specified fields immediately and delays the rest.
+- defer() loads all fields except the specified ones and delays those fields.
+- Both help improve query performance by reducing unnecessary data loading.

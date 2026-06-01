@@ -1,0 +1,3 @@
+- AbstractUser is Django’s built-in user model with username, email, password, and authentication features already included.
+- AbstractBaseUser only provides basic authentication and password handling, so we must define all user fields and authentication logic manually.
+- Use AbstractUser for easy customization and AbstractBaseUser for full control over the user model.

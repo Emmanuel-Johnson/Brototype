@@ -1,0 +1,3 @@
+- A web server handles HTTP requests and serves static content like HTML, CSS, and images.
+- An application server runs business logic, processes data, and connects with databases.
+- Example: Nginx is a web server, while gunicorn works as an application server.

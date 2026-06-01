@@ -1,0 +1,10 @@
+- 200 OK → Request successful, data returned
+- 201 Created → New resource created successfully
+- 204 No Content → Request successful, but no data returned
+- 304 Not Modified → Cached data is still valid, no new response needed
+- 400 Bad Request → Invalid request from client
+- 401 Unauthorized → Authentication required or invalid login
+- 403 Forbidden → Access denied even if logged in
+- 404 Not Found → Requested resource not found
+- 409 Conflict → Conflict with existing data (e.g., duplicate entry)
+- 500 Internal Server Error → Server-side error occurred

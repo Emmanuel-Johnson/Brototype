@@ -1,0 +1,3 @@
+- select_for_update() locks selected rows in the database until the transaction is completed.
+- It is used to prevent multiple users from updating the same data at the same time.
+- Commonly used in banking, wallet, or stock update operations to avoid data conflicts.

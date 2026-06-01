@@ -1,0 +1,3 @@
+- In Django, the main types of model inheritance are Abstract Base Class, Multi-table Inheritance, and Proxy Model.
+- Abstract Base Class shares common fields, Multi-table creates separate tables with parent-child relation, and Proxy Model changes behavior without creating a new table.
+- These help reuse code and organize models efficiently.

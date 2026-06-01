@@ -16,21 +16,21 @@ Python
 
 Django
 
-[ ] authenticate() vs login() 
-[ ] Protection against SQL injection in ORM 
-[ ] only() vs defer() 
-[ ] select_for_update() 
-[ ] UDP vs TCP 
-[ ] Web server vs application server 
-[ ] Field validations 
+[x] authenticate() vs login() 
+[x] Protection against SQL injection in ORM 
+[x] only() vs defer() 
+[x] select_for_update() 
+[x] UDP vs TCP 
+[x] Web server vs application server 
+[x] Field validations 
 
 [ ] Django form to collect data 
 [ ] Library vs framework 
 [ ] Cons of Django 
 [ ] ModelForm vs Django Form 
-[ ] authenticate() vs login() 
+[x] authenticate() vs login() 
 [ ] Request-response cycle in Django 
-[ ] Types of model inheritance 
+[x] Types of model inheritance 
 [ ] Signals in Django 
 [ ] F and Q objects 
 [ ] Preflight request 

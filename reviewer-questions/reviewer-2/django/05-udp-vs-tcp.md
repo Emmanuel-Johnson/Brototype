@@ -1,0 +1,3 @@
+- TCP is connection-oriented, reliable, and guarantees ordered data delivery, but it is slower.
+- UDP is connectionless, faster, and does not guarantee delivery or order of data.
+- TCP is used for banking/web apps, while UDP is used for video streaming and gaming.

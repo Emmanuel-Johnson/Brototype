@@ -1,0 +1,3 @@
+- authenticate() checks the username and password and returns the user if credentials are correct.
+- login() creates the user session and keeps the user logged into the website.
+- Usually, we call authenticate() first, then login().

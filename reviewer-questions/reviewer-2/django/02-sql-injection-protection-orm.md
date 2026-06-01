@@ -1,0 +1,3 @@
+- ORM protects against SQL injection by using parameterized queries instead of directly inserting user input into SQL.
+- User input is treated as data, not executable SQL code.
+- Still avoid raw SQL queries unless properly sanitized.

@@ -15,10 +15,10 @@ Python
 
 Django
 
-[ ] What is the difference between `AbstractUser` and `AbstractBaseUser` exactly? 
+[x] What is the difference between `AbstractUser` and `AbstractBaseUser` exactly? 
 
-[ ] Which are the types of model inheritance? 
-[ ] Which status code is used for a bad request? 
+[x] Which are the types of model inheritance? 
+[x] Which status code is used for a bad request? 
 
 SQL
 
