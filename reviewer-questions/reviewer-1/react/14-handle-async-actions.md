@@ -1,0 +1,3 @@
+- Async actions in Redux are usually handled using Redux Thunk or createAsyncThunk in Redux Toolkit.
+- They allow us to make API calls and handle loading, success, and error states.
+- This helps manage asynchronous operations cleanly in the application.

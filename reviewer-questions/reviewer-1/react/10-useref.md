@@ -1,0 +1,3 @@
+- useRef is a React Hook used to store values without re-rendering the component.
+- It is mainly used to access DOM elements directly.
+- It can also keep mutable data between renders.

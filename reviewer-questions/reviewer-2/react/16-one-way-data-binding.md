@@ -1,0 +1,3 @@
+- One-way data binding means data flows only from parent to child component in React.
+- The UI updates when the state changes, making data easier to control and debug.
+- Child components cannot directly change parent data; they use functions passed through props.

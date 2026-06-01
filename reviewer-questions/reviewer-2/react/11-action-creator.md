@@ -1,0 +1,3 @@
+- An action creator is a function that returns an action object in Redux.
+- It helps create actions in a reusable and clean way instead of writing action objects manually.
+- Usually, it returns an object with type and optional payload.

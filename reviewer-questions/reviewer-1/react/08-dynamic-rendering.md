@@ -1,0 +1,3 @@
+- Dynamic rendering means the server sends different content based on the user or device.
+- For normal users, it sends the full interactive page, and for search engine bots, it sends a pre-rendered HTML page.
+- It improves SEO and page loading for crawlers.

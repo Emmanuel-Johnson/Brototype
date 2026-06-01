@@ -1,0 +1,3 @@
+- Conditional rendering means showing different UI elements based on a condition.
+- In React, we use if, ternary operator, or && to decide what to display.
+- It helps show content dynamically based on user actions or data.

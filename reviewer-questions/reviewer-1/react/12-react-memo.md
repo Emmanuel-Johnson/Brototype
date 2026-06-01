@@ -1,0 +1,3 @@
+- React.memo is a higher-order component that prevents unnecessary re-rendering of a component.
+- It re-renders the component only when the props change.
+- It helps improve performance in React applications.

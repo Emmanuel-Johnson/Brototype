@@ -87,11 +87,11 @@ React
 [x] Redux middleware 
 [x] Theme context switch implementation 
 
-[ ] What exactly is an action creator 
-[ ] What is reconciliation 
-[ ] Use of Redux DevTools 
+[x] What exactly is an action creator 
+[x] What is reconciliation 
+[x] Use of Redux DevTools 
 [ ] Create a Redux component for a todo app - partially done 
-[ ] Create toggle buttons 
-[ ] One-way data binding 
+[x] Create toggle buttons 
+[x] One-way data binding 
 [x] Viewport vs resolution 
 [x] ESModules vs CommonJS 

@@ -54,11 +54,11 @@ React
 [x] What is Redux Thunk? 
 [x] How can we debug Redux Toolkit? 
 
-[ ] What is dynamic rendering? 
-[ ] What is conditional rendering? 
-[ ] What is useRef? 
-[ ] What is React Router? 
-[ ] What is React.memo? 
-[ ] What is createSlice in Redux Toolkit? 
-[ ] How can we handle async actions? 
-[ ] Create a component to add two numbers. 
+[x] What is dynamic rendering? 
+[x] What is conditional rendering? 
+[x] What is useRef? 
+[x] What is React Router? 
+[x] What is React.memo? 
+[x] What is createSlice in Redux Toolkit? 
+[x] How can we handle async actions? 
+[x] Create a component to add two numbers. 

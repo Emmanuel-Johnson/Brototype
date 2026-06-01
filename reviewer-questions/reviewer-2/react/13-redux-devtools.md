@@ -1,0 +1,3 @@
+- Redux DevTools is a browser tool used to debug and monitor Redux state changes.
+- It helps track actions, view state updates, and debug issues easily.
+- It also supports time-travel debugging to move between previous states.

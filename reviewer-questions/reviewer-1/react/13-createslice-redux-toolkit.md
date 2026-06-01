@@ -1,0 +1,3 @@
+- createSlice is a Redux Toolkit function used to create state, reducers, and actions in one place.
+- It reduces boilerplate code and makes Redux easier to write and manage.
+- Each slice handles a specific part of the application state.

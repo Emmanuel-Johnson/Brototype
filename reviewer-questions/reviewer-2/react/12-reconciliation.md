@@ -1,0 +1,3 @@
+- Reconciliation is the process React uses to compare the old Virtual DOM with the new Virtual DOM.
+- It finds the changed parts and updates only those elements in the real DOM.
+- This improves performance and makes UI updates faster.
