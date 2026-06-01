@@ -1,0 +1,3 @@
+- High-level languages are easy for humans to read and write, like Python and Java.
+- Low-level languages are closer to machine code, like Assembly, and give more hardware control.
+- High-level languages are easier to develop with, while low-level languages are faster and more memory efficient.

@@ -1,0 +1,3 @@
+- To create a package in Python, make a folder and add an __init__.py file inside it.
+- Then place related Python modules (.py files) in that folder.
+- You can import the package using the package name.

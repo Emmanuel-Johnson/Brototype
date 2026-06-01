@@ -1,17 +1,17 @@
 Python
 
-[ ] High-level vs low-level languages 
-[ ] assert statement 
+[x] High-level vs low-level languages 
+[x] assert statement 
 
-[ ] staticmethod 
-[ ] What dynamically typed means 
-[ ] Function vs method 
-[ ] What happens if we modify an immutable object 
-[ ] How to create a package in Python 
-[ ] Environment variables 
-[ ] What is a generator 
-[ ] Duck typing 
-[ ] Find vowels 
+[x] staticmethod 
+[x] What dynamically typed means 
+[x] Function vs method 
+[x] What happens if we modify an immutable object 
+[x] How to create a package in Python 
+[x] Environment variables 
+[x] What is a generator 
+[x] Duck typing 
+[x] Find vowels 
 
 Django
 
@@ -63,7 +63,7 @@ DSA
 [ ] How to calculate load factor 
 [ ] Types of Trie 
 [ ] Spanning tree 
-[ ] Shortest path algorithms 
+[x] Shortest path algorithms 
 
 [ ] Virtual memory 
 [ ] Stack and heap memory 

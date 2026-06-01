@@ -1,0 +1,3 @@
+- A dynamically typed language decides the variable type at runtime, not before execution.
+- You don’t need to declare types manually, and a variable can store different data types later.
+- Example: Python and JavaScript.

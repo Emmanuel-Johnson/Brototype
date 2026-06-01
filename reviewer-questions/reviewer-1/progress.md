@@ -38,7 +38,7 @@ DSA
 
 [ ] What is the best-case time complexity of Insertion Sort? 
 [ ] What is the depth of a node in a tree? 
-[ ] Create a DFS traversal function for a graph. 
+[x] Create a DFS traversal function for a graph. 
 [ ] Create a binary tree and calculate its height. 
 
 [ ] Which are the common time complexities? 

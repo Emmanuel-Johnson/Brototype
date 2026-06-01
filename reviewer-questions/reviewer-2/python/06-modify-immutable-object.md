@@ -1,0 +1,3 @@
+- Immutable objects cannot be changed after creation.
+- If we try to modify one, Python creates a new object instead of changing the original.
+- Examples of immutable objects are strings, tuples, and integers.

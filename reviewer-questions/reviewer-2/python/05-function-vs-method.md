@@ -1,0 +1,3 @@
+- A function is a standalone block of code that performs a task.
+- A method is a function that belongs to a class or object.
+- Methods are called using objects, while functions are called directly.

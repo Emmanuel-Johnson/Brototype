@@ -1,0 +1,3 @@
+- A generator is a function that returns values one at a time using yield instead of returning all at once.
+- It saves memory because values are generated only when needed.
+- Generators are useful for working with large data or loops efficiently.
